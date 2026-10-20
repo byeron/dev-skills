@@ -30,7 +30,6 @@ issue は GitHub Issues ではなく、リポジトリの `issues/` ディレク
 ### 実装中
 
 - 実装は issue の「実装手順」に従い、「スコープ」の対象外には手を付けない。
-- Python のコードを書く・変更するときは、`agent-python` の規約に従う。
 - 実装の最後（`review-diff-code` の前）に、`agent-changelog` の規約に従って `CHANGES.md` に変更を記録する。記載対象外の変更は記録しない。
 - 実装中に issue の誤りや不足に気づいたら、コードで回避せず、先に issue を更新し、`ready` に戻して人間の判断を仰ぐ。
 
