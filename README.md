@@ -7,7 +7,7 @@
 - https://github.com/byeron/agent-changelog
 - https://github.com/byeron/polish-issue
 - https://github.com/byeron/create-issue
-- https://github.com/byeron/agent-issue
+- https://github.com/byeron/agent-issues
 - https://github.com/byeron/agent-git
 - https://github.com/byeron/review-code
 - https://github.com/byeron/triage-issue
