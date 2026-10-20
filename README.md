@@ -16,5 +16,5 @@
 - https://github.com/ayghri/i-have-adhd
 - https://github.com/DietrichGebert/ponytail
 
-## AGENT.md
-- このリポジトリの`AGENT.md`をコピーする
+## AGENTS.md
+- このリポジトリの`AGENTS.md`をコピーする
